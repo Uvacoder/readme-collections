@@ -47,7 +47,7 @@
     "gh-pages": "^2.1.1",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/elangosundar/awesome-README-templates",
+  "homepage": "https://awesome-readme-templates.vercel.app",
   "license": "MIT",
   "scripts": {
     "dev": "env-cmd -f .env.development gatsby develop",
