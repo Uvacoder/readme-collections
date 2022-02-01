@@ -7,14 +7,14 @@ class Footer extends React.Component {
     return (
       <footer className="Footer">
         <a
-          href="https://twitter.com/elango_sundar"
+          href="https://twitter.com/AlecCam43544378"
           target="_blank"
           rel="noopener noreferrer"
         >
           twitter
         </a>
         <a
-          href="https://github.com/elangosundar"
+          href="https://github.com/uvacoder"
           target="_blank"
           rel="noopener noreferrer"
         >
